@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 # mail_settings:
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'devzeinab@gmail.com'
-EMAIL_HOST_PASSWORD = "allaho akbr"
+EMAIL_HOST_PASSWORD = ""
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
